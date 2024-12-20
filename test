@@ -1,0 +1,10 @@
+test 
+
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Dec 20 23:58:38 2024
+
+@author: SANGUK
+"""
+
+print('test')
